@@ -62,4 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - **Abin Shaji Thomas** - [GitHub](https://github.com/Abin-Shaji-Thomas)
-```
+-  **Jinto Joseph** - [GitHub Profile](https://github.com/jinto-joseph)
